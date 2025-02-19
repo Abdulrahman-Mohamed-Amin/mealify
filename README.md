@@ -1,1 +1,1 @@
-(Demo)[https://abdulrahman-mohamed-amin.github.io/mealify/]
+[Demo](https://abdulrahman-mohamed-amin.github.io/mealify/)
